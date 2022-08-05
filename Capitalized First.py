@@ -6,7 +6,7 @@ capitalized. The program should let the user enter a string and then pass
 it to the function, printing out the modified string.
 ***example***
 input: hello. my name is Joe. what is your name?
-output:Hello. My name is Joe. What is your name? 
+output: Hello. My name is Joe. What is your name? 
 '''
 
 getInput = input("Enter sentence to be capitalized: ")
